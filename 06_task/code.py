@@ -18,4 +18,4 @@ s2 = {43,23,22,88,9,12}
 
 task3 = s1.intersection(s2)
 
-# print(eg_list, eg_tuple, task3)s
+print(eg_list, eg_tuple, task3)
